@@ -1,0 +1,12 @@
+{
+    "name": "soizic/php-twig",
+    "authors": [
+        {
+            "name": "soizic Lambert",
+            "email": "soizic.lee@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
